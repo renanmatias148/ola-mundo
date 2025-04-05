@@ -3,4 +3,4 @@
 
 repositorio criado durante aula curso em video
 
-Essa linha adicionei diramnete do site
+Essa linha adicionei diretamente do site
